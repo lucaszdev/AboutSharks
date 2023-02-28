@@ -1,0 +1,133 @@
+[
+    {
+        "id": 1,
+        "name": "White Shark",
+        "also_known_as": [
+            "Great white",
+            "Great white shark",
+            "White pointer"
+        ],
+        "gallery": [
+            "https://live.staticflickr.com/65535/52709774583_94c43a7469_o.jpg",
+            "https://live.staticflickr.com/65535/52708768862_222b687474_b.jpg",
+            "https://live.staticflickr.com/65535/52709774548_5de926bf0d_h.jpg",
+            "https://live.staticflickr.com/65535/52708768807_44af8b7f3c_o.jpg",
+            "https://live.staticflickr.com/65535/52709551024_d4a822c3b6_o.jpg",
+        ],
+        "quick_facts": {
+            "eats": "Earless seals",
+            "length": "4.6 - 4.9 m (Female, Adult), 3.4 - 4 m (Male, Adult)",
+            "weight": "680 - 1,100 kg (Female, Mature)",
+            "speed": "56km/h (Maximum, in Short Bursts)",
+            "lifespan": 70,
+        },
+        "about": "The white shark is a large, wide-ranging species that occurs in temperate and subtropical seas worldwide. As an apex predator, the white shark is at the top of the food chain and plays an important ecological role in the oceans.It is also an iconic species due to its occurrence in near-shore habitats and frequent appearance in films and documentaries. But despite its fearsome reputation, its large size and low productivity (reproductive rates, growth rates, age at maturity, longevity, etc.) make the white shark vulnerable to declines from human impacts. Due to these natural vulnerabilities, the white shark is one of the most widely protected sharks globally. The white shark is also one of the most well-studied shark species in the world, including its populations off the east and west coasts of the United States. Seasonal aggregations in key feeding areas along the coast allows researchers to study them. NOAA Fisheries studies the biology of white sharks as well as monitors their populations and manages fisheries that may incidentally catch them. However, there is still much we don't know about them. Many basic questions about their abundance, life history, habitats, and movements remain unanswered.",
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Chondrichthyes",
+            "order": "Carcharhiniformes",
+            "family": "Carcharhinidae",
+            "genus": "Galeocerdo",
+            "scientific_name": "Galeocerdo cuvier",
+        }
+    },
+    {
+        "id": 2,
+        "name": "Tiger Shark",
+        "also_known_as": [
+            "Leopard shark",
+            "Maneater shark",
+            "Spotted shark"
+        ],
+        "gallery": [
+            "https://live.staticflickr.com/65535/52710682915_48b2502eb1_o.jpg",
+            "https://live.staticflickr.com/65535/52710528279_6f3c5c378b_o.jpg",
+            "https://live.staticflickr.com/65535/52710748968_e700d8c1c5_o.jpg",
+            "https://live.staticflickr.com/65535/52710269361_41eb72e870_o.jpg",
+            "https://live.staticflickr.com/65535/52710750858_ddb49b86af_o.jpg"
+        ],
+        "quick_facts": {
+            "eats": "Earless seals",
+            "length": "4.6 - 4.9 m (Female, Adult), 3.4 - 4 m (Male, Adult)",
+            "weight": "680 - 1,100 kg (Female, Mature)",
+            "speed": "56km/h (Maximum, in Short Bursts)",
+            "lifespan": 50,
+        },
+        "about": "Tiger sharks are named for their distinctive color pattern. The body is gray with dark gray vertical bars or spots on the flanks with a pale or white underside. The markings are especially distinctive in juveniles but diminish with age. Tiger sharks are among the largest of the sharks and are recorded up to 550 cm (18 ft) long. They are known to eat most marine animals, sea birds, the occasional terrestrial animal and even garbage encountered floating at sea. Despite being a large slow-moving shark, it is a highly effective ambush predator that deploys short bursts of speed to secure its prey (Simpfendorfer 2009). Fun Fact: Tiger sharks, bull sharks, and white sharks are commonly referred to as “The Big Three” for their involvement in shark attacks. These species are readily identified by the victims and witnesses. In cases involving smaller requiem sharks, the species involved are seldom identified as they are harder to tell apart.",
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Chondrichthyes",
+            "order": "Carcharhiniformes",
+            "family": "Carcharhinidae",
+            "genus": "Galeocerdo",
+            "scientific_name": "Galeocerdo cuvier",
+        }
+    },
+    {
+        "id": 3,
+        "name": "Bull Shark",
+        "also_known_as": [
+            "River Shark",
+            "Freshwater Whaler",
+            "Estuary Whaler",
+            "Swan River Whaler"
+        ],
+        "gallery": [
+            "https://live.staticflickr.com/65535/52716524769_96d740d400_o.jpg",
+            "https://live.staticflickr.com/65535/52716265006_f754730eea_o.jpg",
+            "https://live.staticflickr.com/65535/52716747083_b0d63b85f4_o.jpg",
+            "https://live.staticflickr.com/65535/52716265046_2865f0390b_o.jpg",
+            "https://live.staticflickr.com/65535/52716524224_c92e3361c0_o.jpg"
+        ],
+        "quick_facts": {
+            "eats": "Fish, but can also eat other shark species, marine mammals, birds, and turtles",
+            "length": "3.3 m (Female, Adult), 2.1 m (Male, Adult)",
+            "weight": "130 kg (Female, Adult), 95 kg (Male, Adult)",
+            "speed": "40km/h (Maximum, in Short Bursts)",
+            "lifespan": 16,
+        },
+        "about": "The bull shark (Carcharhinus leucas), also known as the Zambezi shark (informally zambi) in Africa and Lake Nicaragua shark in Nicaragua, is a species of requiem shark commonly found worldwide in warm, shallow waters along coasts and in rivers. It is known for its aggressive nature, and presence mainly in warm, shallow brackish and freshwater systems including estuaries and (usually) lower reaches of rivers. Bull sharks are euryhaline and can thrive in both salt and fresh water. They are known to travel far up rivers, and have been known to travel up the Mississippi River as far as Alton, Illinois, about 1,100 kilometres (700 mi) from the ocean, but few freshwater interactions with humans have been recorded. Larger-sized bull sharks are probably responsible for the majority of nearshore shark attacks, including many incidents of shark bites attributed to other species. Unlike the river sharks of the genus Glyphis, bull sharks are not true freshwater sharks, despite their ability to survive in freshwater habitats.",
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Chondrichthyes",
+            "order": "Carcharhiniformes",
+            "family": "Carcharhinidae",
+            "genus": "Carcharhinus",
+            "scientific_name": "Carcharhinus leucas",
+        }
+    },
+    {
+        "id": 4,
+        "name": "Great hammerhead",
+        "also_known_as": [
+            "The Sphyrnid",
+        ],
+        "gallery": [
+            "https://live.staticflickr.com/65535/52715770817_bde500ef65_o.jpg",
+            "https://live.staticflickr.com/65535/52716774843_823a8e7c3b_o.jpg",
+            "https://live.staticflickr.com/65535/52716720215_5bea6855d4_o.jpg",
+            "https://live.staticflickr.com/65535/52716774863_58a27aba6e_o.jpg",
+            "https://live.staticflickr.com/65535/52716553069_b6b9e8488b_o.jpg"
+        ],
+        "quick_facts": {
+            "eats": "stingrays, other rays and skates. May also consume other sharks, including other hammerhead sharks, bony fish, including groupers and sea catfish, squid and bottom dwelling crustaceans.",
+            "length": "4.6 - 5.5 m (Female, Adult), 3.6 m (Male, Adult)",
+            "weight": "200 - 500 kg (Female, Adult), 230 - 500 kg (Male, Adult)",
+            "speed": "40km/h (Maximum, in Short Bursts)",
+            "lifespan": 30,
+        },
+        "about": "The great hammerhead (Sphyrna mokarran) or great hammerhead shark is the largest species of hammerhead shark, belonging to the family Sphyrnidae, attaining an average length of 4.6 m (15 ft) and reaching a maximum length of 6.1 m (20 ft). It is found in tropical and warm temperate waters worldwide, inhabiting coastal areas and the continental shelf. The great hammerhead can be distinguished from other hammerheads by the shape of its 'hammer' (called the 'cephalofoil'), which is wide with an almost straight front margin, and by its tall, sickle-shaped first dorsal fin. A solitary, strong-swimming apex predator, the great hammerhead feeds on a wide variety of prey ranging from crustaceans and cephalopods, to bony fish, to smaller sharks. Observations of this species in the wild suggest that the cephalofoil functions to immobilize stingrays, a favored prey. This species has a viviparous mode of reproduction, bearing litters of up to 50 pups every two years. Although potentially dangerous, the great hammerhead rarely attacks humans and can sometimes behave inquisitively toward divers. This shark is heavily fished for its large fins, which are valuable on the Chinese market as the main ingredient of shark fin soup. As a result, great hammerhead populations are declining substantially worldwide, and it has been assessed as critically endangered by the International Union for Conservation of Nature (IUCN) as of 2019.",
+        "taxonomy": {
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "class": "Chondrichthyes",
+            "order": "Carcharhiniformes",
+            "family": "Sphyrnidae",
+            "genus": "Sphyrna",
+            "scientific_name": "Sphyrna mokarran",
+        }
+    }
+]

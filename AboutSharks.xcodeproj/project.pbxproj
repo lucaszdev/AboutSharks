@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6719E62029AD94DE00C7EC66 /* MoreAboutSharkSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6719E61F29AD94DE00C7EC66 /* MoreAboutSharkSheet.swift */; };
+		6745AFE829A9B66100730ED9 /* SharkDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6745AFE729A9B66100730ED9 /* SharkDetails.swift */; };
+		6745AFEC29AA4F1D00730ED9 /* SharkCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6745AFEB29AA4F1D00730ED9 /* SharkCard.swift */; };
+		6745B0C629AB9A0B00730ED9 /* SharkInfoCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6745B0C529AB9A0B00730ED9 /* SharkInfoCard.swift */; };
 		67EAE7D829A97958005A2DC4 /* AboutSharksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67EAE7D729A97958005A2DC4 /* AboutSharksApp.swift */; };
 		67EAE7DA29A97958005A2DC4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67EAE7D929A97958005A2DC4 /* ContentView.swift */; };
 		67EAE7DC29A9795A005A2DC4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67EAE7DB29A9795A005A2DC4 /* Assets.xcassets */; };
@@ -14,6 +18,9 @@
 		67EAE7E929A9795A005A2DC4 /* AboutSharksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67EAE7E829A9795A005A2DC4 /* AboutSharksTests.swift */; };
 		67EAE7F329A9795A005A2DC4 /* AboutSharksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67EAE7F229A9795A005A2DC4 /* AboutSharksUITests.swift */; };
 		67EAE7F529A9795A005A2DC4 /* AboutSharksUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67EAE7F429A9795A005A2DC4 /* AboutSharksUITestsLaunchTests.swift */; };
+		67EAE80229A979CA005A2DC4 /* sharks.json in Resources */ = {isa = PBXBuildFile; fileRef = 67EAE80129A979CA005A2DC4 /* sharks.json */; };
+		67EAE80429A9A98B005A2DC4 /* Bundle-Decodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67EAE80329A9A98B005A2DC4 /* Bundle-Decodable.swift */; };
+		67EAE80729A9A9BA005A2DC4 /* Shark.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67EAE80629A9A9BA005A2DC4 /* Shark.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +41,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6719E61F29AD94DE00C7EC66 /* MoreAboutSharkSheet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoreAboutSharkSheet.swift; sourceTree = "<group>"; };
+		6745AFE729A9B66100730ED9 /* SharkDetails.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SharkDetails.swift; sourceTree = "<group>"; };
+		6745AFEB29AA4F1D00730ED9 /* SharkCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SharkCard.swift; sourceTree = "<group>"; };
+		6745B0C529AB9A0B00730ED9 /* SharkInfoCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SharkInfoCard.swift; sourceTree = "<group>"; };
 		67EAE7D429A97958005A2DC4 /* AboutSharks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AboutSharks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		67EAE7D729A97958005A2DC4 /* AboutSharksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutSharksApp.swift; sourceTree = "<group>"; };
 		67EAE7D929A97958005A2DC4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -44,6 +55,9 @@
 		67EAE7EE29A9795A005A2DC4 /* AboutSharksUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AboutSharksUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		67EAE7F229A9795A005A2DC4 /* AboutSharksUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutSharksUITests.swift; sourceTree = "<group>"; };
 		67EAE7F429A9795A005A2DC4 /* AboutSharksUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutSharksUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		67EAE80129A979CA005A2DC4 /* sharks.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = sharks.json; sourceTree = "<group>"; };
+		67EAE80329A9A98B005A2DC4 /* Bundle-Decodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle-Decodable.swift"; sourceTree = "<group>"; };
+		67EAE80629A9A9BA005A2DC4 /* Shark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shark.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +85,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6745AFE929AA4EFC00730ED9 /* Screens */ = {
+			isa = PBXGroup;
+			children = (
+				67EAE7D929A97958005A2DC4 /* ContentView.swift */,
+				6745AFE729A9B66100730ED9 /* SharkDetails.swift */,
+			);
+			path = Screens;
+			sourceTree = "<group>";
+		};
+		6745AFEA29AA4F0D00730ED9 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				6745AFEB29AA4F1D00730ED9 /* SharkCard.swift */,
+				6745B0C529AB9A0B00730ED9 /* SharkInfoCard.swift */,
+				6719E61F29AD94DE00C7EC66 /* MoreAboutSharkSheet.swift */,
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
 		67EAE7CB29A97958005A2DC4 = {
 			isa = PBXGroup;
 			children = (
@@ -94,8 +127,11 @@
 		67EAE7D629A97958005A2DC4 /* AboutSharks */ = {
 			isa = PBXGroup;
 			children = (
+				67EAE80529A9A997005A2DC4 /* Views */,
 				67EAE7D729A97958005A2DC4 /* AboutSharksApp.swift */,
-				67EAE7D929A97958005A2DC4 /* ContentView.swift */,
+				67EAE80329A9A98B005A2DC4 /* Bundle-Decodable.swift */,
+				67EAE80629A9A9BA005A2DC4 /* Shark.swift */,
+				67EAE80129A979CA005A2DC4 /* sharks.json */,
 				67EAE7DB29A9795A005A2DC4 /* Assets.xcassets */,
 				67EAE7DD29A9795A005A2DC4 /* Preview Content */,
 			);
@@ -125,6 +161,15 @@
 				67EAE7F429A9795A005A2DC4 /* AboutSharksUITestsLaunchTests.swift */,
 			);
 			path = AboutSharksUITests;
+			sourceTree = "<group>";
+		};
+		67EAE80529A9A997005A2DC4 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				6745AFEA29AA4F0D00730ED9 /* Components */,
+				6745AFE929AA4EFC00730ED9 /* Screens */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,6 +277,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				67EAE7DF29A9795A005A2DC4 /* Preview Assets.xcassets in Resources */,
+				67EAE80229A979CA005A2DC4 /* sharks.json in Resources */,
 				67EAE7DC29A9795A005A2DC4 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -257,8 +303,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6745B0C629AB9A0B00730ED9 /* SharkInfoCard.swift in Sources */,
 				67EAE7DA29A97958005A2DC4 /* ContentView.swift in Sources */,
+				6745AFE829A9B66100730ED9 /* SharkDetails.swift in Sources */,
 				67EAE7D829A97958005A2DC4 /* AboutSharksApp.swift in Sources */,
+				6719E62029AD94DE00C7EC66 /* MoreAboutSharkSheet.swift in Sources */,
+				67EAE80429A9A98B005A2DC4 /* Bundle-Decodable.swift in Sources */,
+				67EAE80729A9A9BA005A2DC4 /* Shark.swift in Sources */,
+				6745AFEC29AA4F1D00730ED9 /* SharkCard.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -432,6 +484,9 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = me.lucaszdev.AboutSharks;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -461,6 +516,9 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = me.lucaszdev.AboutSharks;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
